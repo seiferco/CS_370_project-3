@@ -1,0 +1,3 @@
+pip install pyotp
+pip install qrcode
+pip install Pillow
